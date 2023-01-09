@@ -1,1 +1,1 @@
-# Team
+print("Hello World!")
